@@ -1,0 +1,28 @@
+
+---------------------------------------------------------
+HOW TO CREATE LOGIN PAGE USING HTML5 & CSS3
+---------------------------------------------------------
+
+REQUIRED
+---------------------------------------------------------
+
+1.login.html
+2.login.css
+3.avatar logo
+4.user and password avatar
+5.Images folder
+
+STEPS
+---------------------------------------------------------
+
+1.Create a html file and name it "login.html".
+2.Create the logo avatar field.
+2.Create username and password input fields.
+3.Insert user and password avatars.
+4.Create submit button.
+5.Create Copyright and Year of copyright Using Javascript date/time functions.
+6.Do css styling to make the form presentable. 
+
+---------------------------------------------------------
+     --------THE END--------
+---------------------------------------------------------
